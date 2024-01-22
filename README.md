@@ -1,2 +1,2 @@
 # Writing_Repo
-Record the articles I write
+Record the articles I write.
