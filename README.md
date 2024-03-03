@@ -1,4 +1,5 @@
 # Writing_Repo
-Record the articles I write.
+
+This repository records the articles I write.
 
 More content you can find
